@@ -1,0 +1,176 @@
+# depslib dependency file v1.0
+1555965531 source:c:\users\omen\onedrive - ministere de l'education nationale et de la formation professionnelle\documents\structure de données\gestionmag\gestion de vente\new folder\salesmanagement\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1555892514 c:\users\omen\onedrive - ministere de l'education nationale et de la formation professionnelle\documents\structure de données\gestionmag\gestion de vente\new folder\salesmanagement\header.h
+
+1555872429 source:c:\users\omen\onedrive - ministere de l'education nationale et de la formation professionnelle\documents\structure de données\gestionmag\gestion de vente\new folder\salesmanagement\customer.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1555888556 source:c:\users\omen\onedrive - ministere de l'education nationale et de la formation professionnelle\documents\structure de données\gestionmag\gestion de vente\new folder\salesmanagement\orderline.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1555966764 source:c:\users\omen\onedrive - ministere de l'education nationale et de la formation professionnelle\documents\structure de données\gestionmag\gestion de vente\new folder\salesmanagement\sales.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1555890342 source:c:\users\omen\onedrive - ministere de l'education nationale et de la formation professionnelle\documents\structure de données\gestionmag\gestion de vente\new folder\salesmanagement\product.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1555969136 source:c:\users\omen\onedrive - ministere de l'education nationale et de la formation professionnelle\documents\structure de données\gestionmag\gestion de vente\new folder\salesmanagement\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1555872429 source:c:\users\omen\onedrive - ministere de l'education nationale et de la formation professionnelle\documents\structure de données\gestionmag\gestion de vente_dadi anas\salesmanagement\customer.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1555892514 c:\users\omen\onedrive - ministere de l'education nationale et de la formation professionnelle\documents\structure de données\gestionmag\gestion de vente_dadi anas\salesmanagement\header.h
+
+1555965531 source:c:\users\omen\onedrive - ministere de l'education nationale et de la formation professionnelle\documents\structure de données\gestionmag\gestion de vente_dadi anas\salesmanagement\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1555969685 source:c:\users\omen\onedrive - ministere de l'education nationale et de la formation professionnelle\documents\structure de données\gestionmag\gestion de vente_dadi anas\salesmanagement\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1555888556 source:c:\users\omen\onedrive - ministere de l'education nationale et de la formation professionnelle\documents\structure de données\gestionmag\gestion de vente_dadi anas\salesmanagement\orderline.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1555890342 source:c:\users\omen\onedrive - ministere de l'education nationale et de la formation professionnelle\documents\structure de données\gestionmag\gestion de vente_dadi anas\salesmanagement\product.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1555966764 source:c:\users\omen\onedrive - ministere de l'education nationale et de la formation professionnelle\documents\structure de données\gestionmag\gestion de vente_dadi anas\salesmanagement\sales.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1557563417 source:c:\users\omen\onedrive - ministere de l'education nationale et de la formation professionnelle\documents\structure de données\gestionmag\gestion des paiemets\salesmanagement\customer.c
+	<stdio.h>
+	<stdlib.h>
+	"customer.h"
+
+1557562888 c:\users\omen\onedrive - ministere de l'education nationale et de la formation professionnelle\documents\structure de données\gestionmag\gestion des paiemets\salesmanagement\header.h
+
+1555965531 source:c:\users\omen\onedrive - ministere de l'education nationale et de la formation professionnelle\documents\structure de données\gestionmag\gestion des paiemets\salesmanagement\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1555966085 source:c:\users\omen\onedrive - ministere de l'education nationale et de la formation professionnelle\documents\structure de données\gestionmag\gestion des paiemets\salesmanagement\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1557563981 source:c:\users\omen\onedrive - ministere de l'education nationale et de la formation professionnelle\documents\structure de données\gestionmag\gestion des paiemets\salesmanagement\orderline.c
+	<stdio.h>
+	<stdlib.h>
+	"customer.h"
+	"orderline.h"
+
+1556422197 source:c:\users\omen\onedrive - ministere de l'education nationale et de la formation professionnelle\documents\structure de données\gestionmag\gestion des paiemets\salesmanagement\product.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1556422205 source:c:\users\omen\onedrive - ministere de l'education nationale et de la formation professionnelle\documents\structure de données\gestionmag\gestion des paiemets\salesmanagement\sales.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1556421126 source:c:\users\omen\onedrive - ministere de l'education nationale et de la formation professionnelle\documents\structure de données\gestionmag\gestion des paiemets\salesmanagement\payement.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1557562886 c:\users\omen\onedrive - ministere de l'education nationale et de la formation professionnelle\documents\structure de données\gestionmag\gestion des paiemets\salesmanagement\customer.h
+
+1557562960 c:\users\omen\onedrive - ministere de l'education nationale et de la formation professionnelle\documents\structure de données\gestionmag\gestion des paiemets\salesmanagement\orderline.h
+	"product.h"
+
+1557564295 c:\users\omen\onedrive - ministere de l'education nationale et de la formation professionnelle\documents\structure de données\gestionmag\gestion des paiemets\salesmanagement\product.h
+
+1557880252 source:d:\salesmanagement\product.c
+	"product.h"
+
+1557880304 d:\salesmanagement\product.h
+	"librairies.h"
+
+1558176338 source:d:\salesmanagement\main.c
+	"database.h"
+
+1557881570 d:\salesmanagement\payment.h
+	"sales.h"
+
+1558172389 d:\salesmanagement\sales.h
+	"orderline.h"
+
+1557565135 d:\salesmanagement\orderline.h
+	"product.h"
+	"customer.h"
+
+1557880032 d:\salesmanagement\customer.h
+	"librairies.h"
+
+1557881477 source:d:\salesmanagement\payement.c
+	"payment.h"
+
+1557879992 source:d:\salesmanagement\customer.c
+	"customer.h"
+
+1558176985 source:d:\salesmanagement\orderline.c
+	<stdio.h>
+	<stdlib.h>
+	"orderline.h"
+
+1558178635 source:d:\salesmanagement\sales.c
+	"sales.h"
+
+1558198587 source:d:\salesmanagement\menu.c
+	"database.h"
+
+1557567469 d:\salesmanagement\menu.h
+	"payment.h"
+
+1558174136 source:d:\salesmanagement\database.c
+	"database.h"
+
+1558173494 d:\salesmanagement\database.h
+	"menu.h"
+
+1558171697 d:\salesmanagement\librairies.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<sys/stat.h>
+	<time.h>
+
+1510187771 source:d:\salesmanagement\sample.c
+	<stdio.h>
+	<stdlib.h>
+	"ascii_art.h"
+
+1510187629 d:\salesmanagement\ascii_art.h
+
